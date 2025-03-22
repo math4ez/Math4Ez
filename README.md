@@ -5,7 +5,7 @@
 - 🌱 Estudando ERP'S, BI e BigData 
 
 <div align="center">
-  <a href="https://github.com/math4ez">
+  <a href="https://beacons.ai/math4ez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Math4Ez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math4Ez&layout=compact&langs_count=7&theme=dracula"/>
 </div>
