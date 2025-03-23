@@ -15,7 +15,7 @@
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Math-piano" height="90" width="90" src="https://cdn.discordapp.com/attachments/1327764439662985386/1353163444836106290/3dgifmaker78384.gif?ex=67e0a729&is=67df55a9&hm=5fe7993bf3eb691d0c2bda0424f867e1f56bf9bea3a932576e31c58620dce49a&">
+  <img align="right" alt="Math-piano" height="120" width="120" src="https://cdn.discordapp.com/attachments/1327764439662985386/1353163444836106290/3dgifmaker78384.gif?ex=67e0a729&is=67df55a9&hm=5fe7993bf3eb691d0c2bda0424f867e1f56bf9bea3a932576e31c58620dce49a&">
 </div>
   
     
