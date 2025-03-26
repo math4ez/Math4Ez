@@ -62,5 +62,10 @@
   <a href="https://open.spotify.com/user/22bu7rzylcvcdpwjrh747hffa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22bu7rzylcvcdpwjrh747hffa&count=1&unique=true" alt="Spotify recently played"  />
   </a>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Math4Ez/Math4Ez/output/snake.svg" alt="Snake animation" />
+  
 </div>
 
