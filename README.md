@@ -58,4 +58,9 @@
 
 <img align="right" height="175" src="https://cdn.discordapp.com/attachments/1324871642605817866/1354321689252466879/3dgifmaker78384.gif?ex=67e4dddc&is=67e38c5c&hm=8b9fd79993ace36a0e570d237b61032c824ae109e9f75862e91c2b14a9d0e71f&"  />
 
+<div align="center">
+  <a href="https://open.spotify.com/user/22bu7rzylcvcdpwjrh747hffa">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22bu7rzylcvcdpwjrh747hffa&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
